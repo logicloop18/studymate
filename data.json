@@ -1,0 +1,17 @@
+{
+    "tasks": [
+        {
+            "name": "study maths cat 2",
+            "done": true
+        },
+        {
+            "name": "study maths cat 1",
+            "done": false
+        },
+        {
+            "name": "cat 2 maths",
+            "done": false
+        }
+    ],
+    "study_hours": 0
+}
